@@ -9,4 +9,9 @@
  */
 module.exports = {
   plugins: [],
+  siteMetadata: {
+    title: 'Mending Ngoding',
+    description: 'Web dev portofolio',
+    copyright: 'This website is copyright 2023 Mending Ngoding'
+  }
 }
