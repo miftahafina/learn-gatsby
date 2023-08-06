@@ -28,9 +28,9 @@ module.exports = {
     },
   ],
   siteMetadata: {
-    title: 'Mending Ngoding',
+    title: 'Learn Gatsby',
     description: 'Web dev portofolio',
-    copyright: 'This website is copyright 2023 Mending',
+    copyright: 'This website is copyright 2023',
     contact: 'surat@miftahafina.com'
   }
 }
